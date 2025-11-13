@@ -1,6 +1,6 @@
 # Binary Grid Optimization with Pyomo ♟️
 
-This repository contains a discrete optimization model built using **Pyomo**, solved via **GAMS/CPLEX**, based on Homework Problem 5 – Question 4.  
+This repository contains a discrete optimization model built using **Pyomo**, solved via **GAMS/CPLEX**.  
 The model places binary decision variables on an **8×8 grid** with constraints that restrict adjacency using rules similar to *knight moves* on a chessboard.
 
 ---
